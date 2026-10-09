@@ -3,3 +3,5 @@
 .claude/skills/impeccable/scripts/bin/
 # local Claude Code settings
 .claude/settings.local.json
+# impeccable per-session decision state
+.impeccable/questions/
