@@ -1,0 +1,5 @@
+# impeccable engine binaries (downloaded on demand by the launcher)
+.agents/skills/impeccable/scripts/bin/
+.claude/skills/impeccable/scripts/bin/
+# local Claude Code settings
+.claude/settings.local.json
